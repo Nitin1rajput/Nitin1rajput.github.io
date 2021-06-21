@@ -54,7 +54,7 @@ body.dark-theme {
   --body-color: #2b2b2b;
 }
 a:visited {
-  color: #f0efef;
+  color: var(--title-color);
 }
 /* button dark/light  */
 .change-theme {
